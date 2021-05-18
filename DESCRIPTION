@@ -1,0 +1,10 @@
+Package: campConductor
+Type: Package
+Title: This is the test for campp bioconductor package
+Version: 0.1.0
+Author: nikto
+Maintainer: The package maintainer <nikto@dtu.dk>
+Description: This is the test how to create campconductor
+License: GPL
+Encoding: UTF-8
+LazyData: true

@@ -1,0 +1,73 @@
+
+CAMPP Running Messages:
+
+packrat library not used. CAMPP will use available R-packages from user library and install these if needed.
+
+The following package(s) is(are) not installed:
+[1] "limma"
+[1] "edgeR"
+[1] "glmnet"
+[1] "sva"
+[1] "openxlsx"
+[1] "ggplot2"
+[1] "gridExtra"
+[1] "heatmap.plus"
+[1] "plyr"
+[1] "viridis"
+[1] "squash"
+[1] "survcomp"
+[1] "survminer"
+[1] "scales"
+[1] "rms"
+[1] "GO.db"
+[1] "WGCNA"
+[1] "fitdistrplus"
+[1] "impute"
+[1] "pcaMethods"
+[1] "pROC"
+[1] "VennDiagram"
+[1] "mclust"
+[1] "multiMiR"
+[1] "biomaRt"
+[1] "arcdiagram"
+[1] "doMC"
+[1] "knor"
+
+- No cut-off for significant hits has been chosen. Cutoffs will be set to -1 > logFC > 1 and corrected p-value (fdr) < 0.05.
+- No preliminary plot requested.
+          used (Mb) gc trigger (Mb) max used (Mb)
+Ncells 1158979 61.9    1814247 96.9  1814247 96.9
+Vcells 3279448 25.1    8388608 64.0  8388606 64.0
+
+- No heatmap requested.
+          used (Mb) gc trigger (Mb) max used (Mb)
+Ncells 1155994 61.8    1814247 96.9  1814247 96.9
+Vcells 3277624 25.1    8388608 64.0  8388606 64.0
+          used (Mb) gc trigger (Mb) max used (Mb)
+Ncells 1155992 61.8    1814247 96.9  1814247 96.9
+Vcells 3277623 25.1    8388608 64.0  8388606 64.0
+
+No Interaction Networks requested
+.
+CAMPP RUN DONE!
+          used (Mb) gc trigger (Mb) max used (Mb)
+Ncells 1155995 61.8    1814247 96.9  1814247 96.9
+Vcells 3277624 25.1    8388608 64.0  8388606 64.0
+
+CAMPP Running Messages:
+
+packrat library not used. CAMPP will use available R-packages from user library and install these if needed.
+
+The following package(s) is(are) not installed:
+[1] "gridExtra"
+[1] "data.table"
+[1] "viridis"
+
+The downloaded binary packages are in
+	/var/folders/7_/qt_9wkvn76lc_0fxpzrc7gsc0000gp/T//RtmppuOOB8/downloaded_packages
+
+The downloaded binary packages are in
+	/var/folders/7_/qt_9wkvn76lc_0fxpzrc7gsc0000gp/T//RtmppuOOB8/downloaded_packages
+
+The downloaded binary packages are in
+	/var/folders/7_/qt_9wkvn76lc_0fxpzrc7gsc0000gp/T//RtmppuOOB8/downloaded_packages

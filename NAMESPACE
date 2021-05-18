@@ -1,0 +1,5 @@
+#some of the packages is not easy to import
+#importFrom() prefered over import
+#
+export('MDSPlot')
+export('CorrelationPlots')
